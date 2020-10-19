@@ -2,7 +2,7 @@
 .appVersion = "1342";
 DisplayStrings = (
 "/noon-ar",
-"/noonghunna-ar.fina/noon-ar.fina"
+"/noon-ar.fina"
 );
 copyright = "Copyright 2019 Google LLC. All Rights Reserved.";
 customParameters = (
@@ -54238,7 +54238,7 @@ unicode = 0646;
 },
 {
 glyphname = "noon-ar.fina";
-lastChange = "2020-10-18 05:02:17 +0000";
+lastChange = "2020-10-19 19:54:44 +0000";
 layers = (
 {
 anchors = (
